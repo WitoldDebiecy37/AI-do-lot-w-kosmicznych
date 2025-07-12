@@ -7,3 +7,4 @@ AI to robi wydruki przedmitów i statków ze zdjęcia projektu i organiazuje pla
 M5stack wmontowuje do mózgu środka chip na radio drukarkę kwantową z nanotechu. 
 To AI przyda się na portale aukcyjne typu Allegro do produckji na sprzedaż asortymentu z przyszłości. Skanseny wymyślają ręciści. 
 AI jest z dalekiej przyszłości z gier o lotach kosmicznych zaprojktowane na przyszłość. 
+AI Może projektować nowe i stare gry komputerowe. 
